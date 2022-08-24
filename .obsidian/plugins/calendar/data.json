@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "Recurring/Weekly/Template",
+  "weeklyNoteFolder": "Recurring/Weekly",
+  "localeOverride": "system-default"
+}
