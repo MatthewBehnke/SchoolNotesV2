@@ -1,0 +1,114 @@
+{
+  "workspaces": {
+    "Assignments": {
+      "main": {
+        "id": "a81be8a0383386c5",
+        "type": "split",
+        "children": [
+          {
+            "id": "844628b837bd71b8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Boards/Assignments.md"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "64b58ea72e0e15b1",
+        "type": "split",
+        "children": [
+          {
+            "id": "ebd2f9f20d5630f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d611b3f44a089f0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b333066818639f10",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 376.5
+      },
+      "right": {
+        "id": "ca3c454cc909ff90",
+        "type": "split",
+        "children": [
+          {
+            "id": "5452c5aaf08b2f4f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ab59ef8f9c4b9012",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Boards/Assignments.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ba56f68f662efa0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5f80b783e7a581c4",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "6d611b3f44a089f0"
+    }
+  },
+  "active": "Assignments"
+}

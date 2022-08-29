@@ -1,13 +1,13 @@
 #ComputerScience  #IowaStateUniversity  #COMS311 
 
 
-[[COM S 311]] 
+[[Classes/ISU/COM S 311/COM S 311]] 
 
 ---
 
 # Dynamic Programming
 
-- [[Richard Bellmon]] in the 50-60s
+- [[Archive/People 1/Richard Bellmon]] in the 50-60s
 - [[Optimization]] type problem
 
 ## [[Algorithm Strategies]]

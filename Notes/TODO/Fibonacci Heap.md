@@ -1,7 +1,7 @@
 #ComputerScience  #IowaStateUniversity  #COMS311  #COMS327
 
 
-[[COM S 311]]  [[COM S 327]]
+[[Classes/ISU/COM S 311/COM S 311]]  [[Classes/ISU/COM  S 327/COM S 327]]
 
 ---
 

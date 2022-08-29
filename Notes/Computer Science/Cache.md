@@ -1,7 +1,7 @@
 #ComputerScience  #IowaStateUniversity  #COMS321 
 
 
-[[COM S 321]] 
+[[Classes/ISU/COM S 321/COM S 321]] 
 
 ---
 

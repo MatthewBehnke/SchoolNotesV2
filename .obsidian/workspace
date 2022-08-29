@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab2d30bd7288d6c",
+        "id": "2c139afb84795d7e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "pdf",
           "state": {
-            "file": "Boards/Assignments.md"
+            "file": "Classes/ISU/COM S 487/Lecture Pdfs/L2-udp_tcp.pdf"
+          }
+        }
+      },
+      {
+        "id": "76a2f1501676dda4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes/ISU/COM S 487/Lecture Notes/L2-udp_tcp.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca3c454cc909ff90",
@@ -62,20 +75,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "165d08e126f5ca62",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "ab59ef8f9c4b9012",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boards/Assignments.md",
+                "file": "Classes/ISU/COM S 487/Lecture Notes/L2-udp_tcp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ab2d30bd7288d6c",
+  "active": "76a2f1501676dda4",
   "lastOpenFiles": [
-    "Boards/Classes.md",
-    "README.md",
-    "People/Elvira  Mayordomo.md",
-    "Boards/Assignments.md",
-    "Classes/ISU/ENGL/314/Reading Notes/Technical Communication Chapter 2.md",
-    "Classes/ISU/ENGL/314/Reading Notes/Technical Communication Chapter 1.md",
-    "Classes/ISU/ENGL/314/ENGL 314.md",
-    "Classes/ISU/COM S/477/Lecture Notes/2022-08-23 Introduction.md",
-    "Classes/ISU/COM S/487/COM S 487.md",
-    "Classes/ISU/STAT/330/Lecture Notes/Probability and Statistics/001 Intro to Probability and Statistics.md"
+    "Classes/ISU/COM S 487/Lecture Pdfs/L2-udp_tcp.pdf",
+    "Classes/ISU/COM S 487/Lecture Notes/L2-udp_tcp.md",
+    "Classes/ISU/COM S 487/Lecture Pdfs/L1-intro.pdf",
+    "Classes/ISU/COM S 477/COM S 477.md",
+    "Classes/ISU/COM S 487/Lecture Notes/004 Internet Protocol (IP).md",
+    "Classes/ISU/COM S 487/COM S 487.md",
+    "Classes/ISU/COM S 487/Untitled.md",
+    "Classes/ISU/COM S 477/Homework/1/hw1.pdf",
+    "Classes/ISU/STAT 330/STAT 330.md",
+    "Classes/ISU/STAT 330/Lecture pdf's/Module 1 - Probability and Statistics/06_Permutations.pdf"
   ]
 }
